@@ -20,4 +20,4 @@ This means that PATCHes are bug fixes and MINORs add new features but neither of
 Finally, MAJORs add changes that won’t work with earlier versions.
 
 
-**Courtecy:** [freecodecamp][https://www.freecodecamp.org/]
+**Courtecy:** [freecodecamp](https://www.freecodecamp.org/)
