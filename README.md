@@ -1,5 +1,7 @@
 # Software Engineering Appendix
 
+Will organize basic but very very important concepts of software engineering here!!!
+
 ### A
 
 ### B
